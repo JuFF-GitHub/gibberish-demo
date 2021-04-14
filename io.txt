@@ -1,7 +1,1 @@
------BEGIN PGP MESSAGE-----
-
-jA0ECQMCFI+fgEeKsV7/0l8B6NTT4dHIN+ho8rSU2wGFWoahOuVndXSxnSTOWzL+
-Qni3aelhPjOZS8Jpmsex5ZVc57zqHViCn1wnHx0H3iDtTO+zbHm3XBAjb5jw1tSU
-+/xJ5F9PWR/bk4BPGu9yQw==
-=Xxyx
------END PGP MESSAGE-----
+GiBBERISh-server:~$ 
