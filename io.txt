@@ -1,1 +1,1 @@
-echo "Welcome to GIBBERISH-server"
+echo hi
