@@ -1,3 +1,1 @@
-echo hi
-[A[Jhi
 GiBBERISh-server:~$ 
