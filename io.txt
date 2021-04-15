@@ -1,1 +1,7 @@
-path_at_client='/home/somajit/'; GIBBERISH_bring ~/scratch/LICENSE ~/
+-----BEGIN PGP MESSAGE-----
+
+jA0ECQMCR6XBdO5t/cL/0m4BPN5nKH5Gkj5tX1O9U4tgfkz5l6KMlJSDVENRho24
+s0ywuqjLiZH2vNvf/R+RiTNBXfgoUnsKSxg/+hdkJRfWv1XFQcYMMeRXb06Fb+Y2
+4xoqx07JspE1+I7pjgKKAKoPJ35RJtmPR5z3e9tjvA==
+=Cqfl
+-----END PGP MESSAGE-----
