@@ -1,1 +1,3 @@
+echo "Welcome to GIBBERISH-server"
+[A[JWelcome to GIBBERISH-server
 GiBBERISh-server:~$ 
