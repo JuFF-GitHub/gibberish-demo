@@ -1,1 +1,1 @@
-echo "Welcome to GIBBERISH-server"
+path_at_client='/home/somajit/'; GIBBERISH_bring ~/scratch/LICENSE ~/
