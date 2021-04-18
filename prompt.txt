@@ -1,1 +1,1 @@
-GiBBERISh-server:~$ 
+GiBBERISH-server$ 
