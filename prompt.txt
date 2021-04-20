@@ -1,1 +1,1 @@
-GiBBERISH-server:~/scratch$ 
+GiBBERISH-server:~$ 
