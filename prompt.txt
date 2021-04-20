@@ -1,1 +1,1 @@
-GiBBERISH-server:/tmp$ 
+GiBBERISH-server:~$ 
