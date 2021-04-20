@@ -1,1 +1,1 @@
-GiBBERISH-server:~/Downloads$ 
+GiBBERISH-server:~$ 
