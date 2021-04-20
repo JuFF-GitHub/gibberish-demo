@@ -1,1 +1,1 @@
-GiBBERISH-server:~/gibberish/home/somajit$ 
+GiBBERISH-server:~/gibberish/home/somajit/hi$ 
